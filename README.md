@@ -36,7 +36,7 @@ A web-based image processing application built with Flask and OpenCV. This appli
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Yassineachkhity/openCV_workshop.git
    cd openCV-project
    ```
 
